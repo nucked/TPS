@@ -134,5 +134,5 @@ lib/libmedia_jni.so
 在devices/N900/package/
 
 ```
-13:52 ~/TESTROM/TPS/devices/N900/config $ ls
+13:52 ~/TESTROM/TPS/devices/N900/package $ ls
 N900.zip*    smali/    target_files/    target_files.zip    
